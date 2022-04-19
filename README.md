@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Arishkin
-- 👀 I’m interested in gardening
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ... I am not looking
 - 📫 How to reach me... Please, do not reach me
 
 <!---
